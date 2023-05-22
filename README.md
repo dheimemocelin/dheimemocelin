@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Dheime Mocelin 👋</h1>
-<h3 align="center">Passionate about data science and machine learning</h3>
+<h1 align="center">Hi, I'm Dheime Mocelin  <h1>
 
 - 🌱 I'm currently learning **Machine Learning** and **Cloud Computing**
 
