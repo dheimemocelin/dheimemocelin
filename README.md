@@ -2,7 +2,14 @@
 
     🌱 I'm currently learning Machine Learning and Cloud Computing.
 
-    💬 Ask me about SQL, Power BI, Looker Studio, statistics, Python.
+    Python 🐍
+    Machine Learning 🤖
+    SQL 📊
+    Web Scraping 🕸️
+    Automation 🤖
+    Power BI 📊
+    Statistics 📈
+    Cloud ☁️
 
     📫 You can reach me via email: dheime7@gmail.com.
 
