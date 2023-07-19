@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Dheime Mocelin</h1>
 
-    🌱 I'm currently learning Machine Learning and Cloud Computing.
-
     Python 🐍
     Machine Learning 🤖
     SQL 📊
