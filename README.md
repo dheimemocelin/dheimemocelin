@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Dheime Mocelin</h1>
+<h1 align="center">Hello, I'm Dheime Mocelin</h1>
 
-Python 🐍 | Machine Learning 🤖 | SQL 📊 | Web Scraping 🕸️ | Automation 🤖 | Power BI 📊 | Statistics 📈
+Python | Machine Learning | SQL | Web Scraping | Automation | Power BI | Statistics
 
-📫 You can reach me via email: dheime7@gmail.com.
+For inquiries, feel free to contact me via email: dheime7@gmail.com.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/@dheimefernando" target="_blank">
@@ -15,6 +16,7 @@ Python 🐍 | Machine Learning 🤖 | SQL 📊 | Web Scraping 🕸️ | Automati
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dheimemocelinn" height="30" width="40" />
   </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -51,3 +53,4 @@ Python 🐍 | Machine Learning 🤖 | SQL 📊 | Web Scraping 🕸️ | Automati
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheimemocelin&show_icons=true&locale=en&layout=compact" alt="dheimemocelin" />
 </p>
+
