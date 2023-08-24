@@ -40,14 +40,6 @@ Currently, I am dedicated to expanding my knowledge in data science, with a spec
 
 </div>
 
-## My Contributions
-<div style="display: flex; flex-direction: column; gap: 30px;">
-    <a href="https://github.com/dheimemocelin/dio-lab-open-source">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheimemocelin&repo=dio-lab-open-source&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Repo Card">
-    </a>
-    <a href="https://github.com/dheimemocelin/mocelinNews">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheimemocelin&repo=mocelinnews&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Repo Card">
-    </a>
     <a href="https://github.com/dheimemocelin/Web_Scraping">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheimemocelin&repo=web_Scraping&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Repo Card">
     </a>
