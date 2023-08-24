@@ -1,4 +1,3 @@
-
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/dheime-mocelin-8a002b1ab/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.instagram.com/dheimemocelinn/)
@@ -38,12 +37,4 @@ Currently, I am dedicated to expanding my knowledge in data science, with a spec
     <img src="https://github-readme-stats.vercel.app/api?username=dheimemocelin&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="GitHub Stats">
   </div>
 
-</div>
-
-    <a href="https://github.com/dheimemocelin/Web_Scraping">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheimemocelin&repo=web_Scraping&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Repo Card">
-    </a>
-    <a href="https://github.com/dheimemocelin/Bot_discord">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheimemocelin&repo=Bot_discord&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Repo Card">
-    </a>
 </div>
