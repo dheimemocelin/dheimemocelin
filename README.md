@@ -1,56 +1,56 @@
-<h1 align="center">Hello, I'm Dheime Mocelin</h1>
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/dheime-mocelin-8a002b1ab/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.instagram.com/dheimemocelinn/)
+[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=Medium&logoColor=30A3DC)](https://medium.com/@dheime7)
 
-Python | Machine Learning | SQL | Web Scraping | Automation | Power BI | Statistics
+## About Me
+I entered the field of technology at the age of 34, focusing on data analysis. I have made significant contributions to enhancing the marketing performance of over 40 companies, providing valuable insights through the analysis of advertising campaigns. My experience spans projects in various sectors, including B2B, B2C, POS, and E-commerce.
 
-For inquiries, feel free to contact me via email: dheime7@gmail.com.
+Currently, I am dedicated to expanding my knowledge in data science, with a special emphasis on artificial intelligence, machine learning, and deep learning. My goal is to develop innovative and impactful solutions, further solidifying my position as a professional dedicated to generating value through data analysis.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/@dheimefernando" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dheimefernando" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/dheime-mocelin-8a002b1ab/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/@dheimemocelinn" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dheimemocelinn" height="30" width="40" />
-  </a>
-</p>
+## Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://zapier.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40" />
-  </a>
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheimemocelin&show_icons=true&locale=en&layout=compact" alt="dheimemocelin" />
-</p>
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=30A3DC" alt="Python">
+    <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=30A3DC" alt="Pandas">
+    <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=30A3DC" alt="NumPy">
+    <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sql&logoColor=30A3DC" alt="SQL">
+    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=30A3DC" alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=30A3DC" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=30A3DC" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=30A3DC" alt="Power BI">
+    <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=30A3DC" alt="Flask">
+    <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=30A3DC" alt="AWS">
+    <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=30A3DC" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=30A3DC" alt="CSS">
+</div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+
+  <div style="flex: 1;">
+    <h2>Most Used Languages</h2>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dheimemocelin&bg_color=0D1117&border_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Top Langs">
+  </div>
+
+  <div style="flex: 1;">
+    <h2>GitHub Status</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=dheimemocelin&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="GitHub Stats">
+  </div>
+
+</div>
+
+## My Contributions
+<div style="display: flex; flex-direction: column; gap: 30px;">
+    <a href="https://github.com/dheimemocelin/dio-lab-open-source">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheimemocelin&repo=dio-lab-open-source&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Repo Card">
+    </a>
+    <a href="https://github.com/dheimemocelin/mocelinNews">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheimemocelin&repo=mocelinnews&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Repo Card">
+    </a>
+    <a href="https://github.com/dheimemocelin/Web_Scraping">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheimemocelin&repo=web_Scraping&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Repo Card">
+    </a>
+    <a href="https://github.com/dheimemocelin/Bot_discord">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dheimemocelin&repo=Bot_discord&theme=dark&bg_color=0D1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Repo Card">
+    </a>
+</div>
