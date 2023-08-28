@@ -4,7 +4,7 @@
 [![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=Medium&logoColor=30A3DC)](https://medium.com/@dheime7)
 
 ## About Me
-I entered the field of technology at the age of 34, focusing on data analysis. I have made significant contributions to enhancing the marketing performance of over 40 companies, providing valuable insights through the analysis of advertising campaigns. My experience spans projects in various sectors, including B2B, B2C, POS, and E-commerce.
+Currently, I work as a data analyst. I've made significant contributions to enhance the marketing performance of over 40 companies, providing valuable insights through the analysis of advertising campaigns. My experience spans across projects in various sectors, including B2B, B2C, Point of Sale (POS), and E-commerce.
 
 Currently, I am dedicated to expanding my knowledge in data science, with a special emphasis on artificial intelligence, machine learning, and deep learning. My goal is to develop innovative and impactful solutions, further solidifying my position as a professional dedicated to generating value through data analysis.
 
