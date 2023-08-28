@@ -4,12 +4,11 @@
 [![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=Medium&logoColor=30A3DC)](https://medium.com/@dheime7)
 
 ## About Me
-Currently, I work as a data analyst. I've made significant contributions to enhance the marketing performance of over 40 companies, providing valuable insights through the analysis of advertising campaigns. My experience spans across projects in various sectors, including B2B, B2C, Point of Sale (POS), and E-commerce.
+At present, I hold the role of a data analyst, where I've played a pivotal role in enhancing the marketing performance of more than 40 companies. Through meticulous analysis of advertising campaigns, I've been able to deliver invaluable insights. My proficiency extends across diverse sectors, including B2B, B2C, Point of Sale (POS), and E-commerce.
 
-Currently, I am dedicated to expanding my knowledge in data science, with a special emphasis on artificial intelligence, machine learning, and deep learning. My goal is to develop innovative and impactful solutions, further solidifying my position as a professional dedicated to generating value through data analysis.
+My current focus centers on a relentless pursuit of knowledge expansion within the realm of data science, with a specific emphasis on artificial intelligence, machine learning, and deep learning. My ultimate objective revolves around crafting pioneering and impactful solutions, thereby further solidifying my stature as a dedicated professional renowned for fostering value through astute data analysis.
 
 ## Skills
-
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=30A3DC" alt="Python">
     <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=30A3DC" alt="Pandas">
