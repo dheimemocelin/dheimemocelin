@@ -4,9 +4,17 @@
 [![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=Medium&logoColor=30A3DC)](https://medium.com/@dheime7)
 
 ## About Me
-At present, I hold the role of a data analyst, where I've played a pivotal role in enhancing the marketing performance of more than 40 companies. Through meticulous analysis of advertising campaigns, I've been able to deliver invaluable insights. My proficiency extends across diverse sectors, including B2B, B2C, Point of Sale (POS), and E-commerce.
+Currently, I work as a systems and automation analyst, playing a pivotal role in the implementation and enhancement of process automation using low-code approaches and traditional programming.
 
-My current focus centers on a relentless pursuit of knowledge expansion within the realm of data science, with a specific emphasis on artificial intelligence, machine learning, and deep learning. My ultimate objective revolves around crafting pioneering and impactful solutions, thereby further solidifying my stature as a dedicated professional renowned for fostering value through astute data analysis.
+I also have experience in data analysis and data engineering projects, creating detailed analyses to guide decisions based on KPIs.
+
+I've had the opportunity to work on data engineering projects using AWS (Amazon Web Services), where I set up data pipelines, data lakes, and data warehouses on the AWS platform. I designed and implemented ETL (Extraction, Transformation, and Loading) processes, used Amazon EC2 instances for data processing and analysis, leveraging AWS services like Amazon S3, AWS Glue, and Amazon Redshift.
+
+Additionally, I have been involved in web scraping projects (data extraction from the web).
+
+I am currently completing a specialization in artificial intelligence, computer vision, machine learning, and deep learning, with a focus on AI applications for data analysis and process automation.
+
+I believe these technologies have the potential to revolutionize the creation of intelligent systems, and I am eager to apply my knowledge and skills to build innovative solutions that can positively impact the world.
 
 ## Skills
 <div style="display: flex; flex-wrap: wrap;">
