@@ -4,17 +4,22 @@
 [![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=Medium&logoColor=30A3DC)](https://medium.com/@dheime7)
 
 ## About Me
-Currently, I work as a systems and automation analyst, playing a pivotal role in the implementation and enhancement of process automation using low-code approaches and traditional programming.
+Currently, I work as a systems and automation analyst, implementing process improvements and automation. I utilize both low-code and traditional programming approaches.
 
-I also have experience in data analysis and data engineering projects, creating detailed analyses to guide decisions based on KPIs.
+I have experience in data analysis and data engineering projects, as well as machine learning. As a BI analyst, I've worked on projects involving data extraction from APIs and databases across various business domains.
 
-I've had the opportunity to work on data engineering projects using AWS (Amazon Web Services), where I set up data pipelines, data lakes, and data warehouses on the AWS platform. I designed and implemented ETL (Extraction, Transformation, and Loading) processes, used Amazon EC2 instances for data processing and analysis, leveraging AWS services like Amazon S3, AWS Glue, and Amazon Redshift.
+I use tools such as:
 
-Additionally, I have been involved in web scraping projects (data extraction from the web).
+- SQL
+- Python
+- Power BI
+- Cloud platforms
 
-I am currently completing a specialization in artificial intelligence, computer vision, machine learning, and deep learning, with a focus on AI applications for data analysis and process automation.
+I've had the opportunity to work on data engineering projects using Amazon Web Services (AWS). This involved setting up data pipelines, data lakes, and data warehouses on the AWS platform. I also designed and implemented ETL (Extraction, Transformation, Loading) processes, leveraging Amazon EC2 instances for data processing and analysis, and making use of AWS services like Amazon S3, AWS Glue, and Amazon Redshift.
 
-I believe these technologies have the potential to revolutionize the creation of intelligent systems, and I am eager to apply my knowledge and skills to build innovative solutions that can positively impact the world.
+Additionally, I've been involved in web scraping projects for data extraction from the web.
+
+Currently, I'm specializing in artificial intelligence, encompassing areas such as machine learning, computer vision, deep learning, generative AI, and MLOps. I believe these technologies have the potential to revolutionize the development of intelligent systems for businesses.
 
 ## Skills
 <div style="display: flex; flex-wrap: wrap;">
