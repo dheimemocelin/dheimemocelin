@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/dheime-mocelin-8a002b1ab/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.instagram.com/dheimemocelinn/)
 [![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=Medium&logoColor=30A3DC)](https://medium.com/@dheime7)
-[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=Medium&logoColor=30A3DC)](https://dheimemocelin.github.io/portfolio/)
+[![Medium](https://img.shields.io/badge/portfolio-0D1117?style=for-the-badge&logo=portfolio&logoColor=30A3DC)](https://dheimemocelin.github.io/portfolio/)
 
 ## About Me
 <p>I had the opportunity to work on data engineering projects using Amazon Web Services (AWS). This involved setting up data pipelines, data lakes, and data warehouses on the AWS platform. Additionally, I designed and implemented ETL (Extraction, Transformation, and Load) and ELT processes, leveraging Amazon EC2 instances for data processing and analysis. Utilized core AWS services such as Amazon S3, AWS Glue, and Amazon Redshift to streamline efficient data management and manipulation throughout the project lifecycle.</p>
