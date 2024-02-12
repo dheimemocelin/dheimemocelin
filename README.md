@@ -2,24 +2,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/dheime-mocelin-8a002b1ab/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=30A3DC)](https://www.instagram.com/dheimemocelinn/)
 [![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=Medium&logoColor=30A3DC)](https://medium.com/@dheime7)
+[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=Medium&logoColor=30A3DC)](https://dheimemocelin.github.io/portfolio/)
 
 ## About Me
-Currently, I work as a systems and automation analyst, implementing process improvements and automation. I utilize both low-code and traditional programming approaches.
-
-I have experience in data analysis and data engineering projects, as well as machine learning. As a BI analyst, I've worked on projects involving data extraction from APIs and databases across various business domains.
-
-I use tools such as:
-
-- SQL
-- Python
-- Power BI
-- Cloud platforms
-
-I've had the opportunity to work on data engineering projects using Amazon Web Services (AWS). This involved setting up data pipelines, data lakes, and data warehouses on the AWS platform. I also designed and implemented ETL (Extraction, Transformation, Loading) processes, leveraging Amazon EC2 instances for data processing and analysis, and making use of AWS services like Amazon S3, AWS Glue, and Amazon Redshift.
-
-Additionally, I've been involved in web scraping projects for data extraction from the web.
-
-Currently, I'm specializing in artificial intelligence, encompassing areas such as machine learning, computer vision, deep learning, generative AI, and MLOps. I believe these technologies have the potential to revolutionize the development of intelligent systems for businesses.
+<p>I had the opportunity to work on data engineering projects using Amazon Web Services (AWS). This involved setting up data pipelines, data lakes, and data warehouses on the AWS platform. Additionally, I designed and implemented ETL (Extraction, Transformation, and Load) and ELT processes, leveraging Amazon EC2 instances for data processing and analysis. Utilized core AWS services such as Amazon S3, AWS Glue, and Amazon Redshift to streamline efficient data management and manipulation throughout the project lifecycle.</p>
+<p>As a Business Intelligence (BI) analyst, I accumulated significant experience in projects that required the extraction of data from various sources, including APIs, databases, web scraping and the integration of information from CRM, ERP and social media.</p>
 
 ## Skills
 <div style="display: flex; flex-wrap: wrap;">
