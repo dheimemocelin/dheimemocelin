@@ -1,20 +1,15 @@
-## Hi there 👋##
+## Hi there! 👋
+🔬 I'm a seasoned Data Scientist driven by the quest for actionable insights within data.
 
-🔬 Data Scientist Analytics
-
-
-**Skills**
-<div style="display: flex; flex-wrap: wrap;">
+Skills
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=30A3DC" alt="Python">
     <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=30A3DC" alt="Pandas">
     <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=30A3DC" alt="NumPy">
     <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sql&logoColor=30A3DC" alt="SQL">
-    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=30A3DC" alt="MySQL">
-    <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=30A3DC" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=30A3DC" alt="MongoDB">
+    <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=30A3DC" alt="AWS">
     <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=30A3DC" alt="Power BI">
     <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=30A3DC" alt="Flask">
-    <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=30A3DC" alt="AWS">
     <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=30A3DC" alt="HTML">
     <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=30A3DC" alt="CSS">
 </div>
