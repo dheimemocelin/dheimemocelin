@@ -1,57 +1,58 @@
-
 # Dheime Fernando
 
-**Coordenador de Dados | BI, Engenharia de Dados e IA Aplicada à Performance**
+**Cientista de Dados | Analytics Engineer | Especialista em Dados Aplicados à Performance e Estratégia**
 
-Profissional com experiência prática nas frentes de engenharia, ciência e análise de dados. Atuo com foco em projetos que conectam dados e estratégia, entregando automações, inteligência analítica e valor real para o negócio.
+Atuo na interseção entre dados, automação e negócio. Tenho experiência prática com engenharia de dados, modelagem estatística e inteligência aplicada à resolução de problemas reais — com entregas focadas em crescimento, eficiência e decisões baseadas em evidência.
 
-Este repositório reúne meus estudos, frameworks e soluções aplicadas a problemas reais — sempre com a mentalidade de crescimento, eficiência e tomada de decisão baseada em dados.
-
----
-
-## 🧩 Áreas de Atuação
-
-- Business Intelligence e visualização de performance
-- Construção de pipelines, ETLs e integrações em cloud (AWS)
-- Modelagem estatística e machine learning supervisionado e não supervisionado
-- Aplicações com LLMs e análise de texto
-- Growth analytics com foco em CAC, LTV, ROI e retenção
+Tenho perfil técnico com visão de coordenação e experiência na formação de times data-driven. Neste repositório, compartilho soluções e frameworks usados em pipelines de dados, análises preditivas e integrações estratégicas em ambiente corporativo.
 
 ---
 
-## 📁 Projetos em destaque (em constante atualização)
+## 🧠 Áreas de atuação
 
-### `etl-integracao-dados-hubspot-s3`
-Automação do processo de ingestão de dados de CRM usando Python e AWS (S3 + Lambda + Glue).
+- Ciência de Dados aplicada à performance e produto  
+- Engenharia de dados com foco em automação e integração  
+- BI e criação de dashboards estratégicos  
+- Machine Learning supervisionado e não supervisionado  
+- Modelagem preditiva com séries temporais  
+- Análise de funil, CAC, LTV, churn e cohort
 
-### `churn-prediction-model`
-Modelo de machine learning para previsão de cancelamento de clientes. Inclui pipeline de dados e validação de resultados.
+---
 
-### `llm-analytics-avaliacao`
-Testes comparativos entre modelos de linguagem para aplicação analítica (classificação de texto e análise de sentimento).
+## 🔍 Projetos em destaque
 
-### `dash-performance-vendas`
-Dashboard interativo com Power BI e Looker Studio para análise de KPIs de marketing e vendas.
+### `etl-hubspot-aws-pipeline`  
+Pipeline de ingestão de dados de CRM com Python, S3, Glue e Lambda — dados prontos para análise em minutos.
+
+### `churn-prediction-model`  
+Modelo preditivo para cancelamento de clientes com Scikit-learn. Avaliação, métricas e aplicação prática.
+
+### `llm-analytics-comparativo`  
+Experimento comparativo entre modelos de linguagem para classificação de texto e análise de sentimento.
+
+### `dash-kpis-marketing-vendas`  
+Dashboard estratégico com KPIs de marketing e vendas (CAC, ROI, LTV), integrado a dados externos e internos.
 
 ---
 
 ## 🛠️ Stack técnica
 
-- **Linguagens:** SQL, Python, JavaScript  
-- **Cloud:** AWS (S3, Glue, Lambda, IAM, EC2, RDS, DMS)  
-- **BI / Dataviz:** Power BI, Looker, Looker Studio, Metabase, Databricks, Amplitude  
-- **Machine Learning:** Scikit-Learn, Prophet, modelos supervisionados e não supervisionados  
-- **Digital Analytics:** GA4, Tag Manager, Search Console, Supermetrics  
+- **Linguagens:** Python, SQL, JavaScript  
+- **Data & Cloud:** AWS (S3, Glue, Lambda, RDS, DMS), Airflow  
+- **Machine Learning:** Scikit-learn, Prophet, regressão, classificação, clustering  
+- **BI / Visualização:** Power BI, Looker Studio, Metabase, Databricks, Amplitude  
+- **Analytics:** GA4, Tag Manager, Supermetrics  
 - **Planilhas:** Excel Avançado, Google Sheets
 
 ---
 
-## 📫 Contato
+## 📫 Conecte-se comigo
 
-Focado em projetos que transformam dados em decisões.  
-Aberto a conexões em dados, IA aplicada e estratégia de crescimento:
+Atuo com foco em dados aplicados a decisões reais.  
+Aberto a colaborações em projetos estratégicos de dados, IA e analytics:
 
 - [LinkedIn](https://www.linkedin.com/in/dheimemocelin)  
 - [Portfólio](https://dheimemocelin.github.io/portfolio)  
-- [Medium](https://medium.com/@dheime7)  
+- [Medium](https://medium.com/@dheime7)
+
 
