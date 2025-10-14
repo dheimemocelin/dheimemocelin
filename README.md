@@ -1,34 +1,35 @@
-# 👋 About Me
+# 🧠 About Me
 
-💼 Atualmente lidero dados e inteligência de mercado como **Coordenador de Dados & Inteligência de Mercado** — unindo tecnologia, marketing e estratégia.  
-📈 Especialista em **Analytics Engineering, Data Science & IA aplicada a negócios**.  
-🛠 Minha missão? Transformar **dados em decisões, automação e crescimento sustentável**.  
-⚽ Nas horas vagas, mergulho em **análises de futebol** — performance, scouting e predição.
-
----
-
-## 🌐 Socials
-
-[LinkedIn](https://www.linkedin.com/in/dheimemocelin) •  
-[GitHub](https://github.com/dheimemocelin) •  
-[Portfólio](https://dheimemocelin.github.io/portfolio) •  
-[Email](mailto:dheime.mocelin@gmail.com)
+💼 I’m currently working as **Coordinator of Data & Market Intelligence** at a multi-brand automotive and financial group in Brazil.  
+🚀 I specialize in **Analytics Engineering, Data Science, Marketing Intelligence** and **AI applied to business**.  
+📊 I build **data-driven ecosystems** connecting marketing, technology, and strategy.  
+⚡ Passionate about using data to generate **growth, automation, and better decisions**.  
+⚽ In my free time, I apply data science to **football analytics** — performance, scouting and predictive modeling.
 
 ---
 
-## 🧰 Tech Stack
+## 🌐 Socials:
 
-**Linguagens / Frameworks**  
-Python · SQL · JavaScript · Scikit-learn · Prophet · Pandas · NumPy  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheimemocelin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/dheimemocelin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://dheimemocelin.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dheime.mocelin@gmail.com)
 
-**Cloud / Infra / Dados**  
-AWS (S3, Glue, Lambda, RDS, DMS) · Databricks · Airflow · Data Lakes  
+---
 
-**BI / Visualização / Analytics**  
-Power BI · Looker Studio · Metabase · Streamlit · GA4 · Tag Manager  
+## 🧰 Tech Stack:
 
-**Métricas & Estratégia**  
-Funil · CAC · LTV · Churn · Cohort · Marketing Science  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Data & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor
+
 
 
 
