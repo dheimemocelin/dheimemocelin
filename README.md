@@ -1,9 +1,31 @@
 # 🧠 About Me
 
-💼 Currently leading **Data & Market Intelligence** as Coordinator — uniting technology, marketing and strategy.  
-📊 Specialized in **Analytics Engineering, Data Science & Artificial Intelligence applied to business**.  
-⚙️ Focused on building **data ecosystems** that connect insights, automation and decision-making.  
-⚽ Passionate about **sports analytics**, exploring predictive models for performance and scouting.
+I’m a **Data Scientist focused on Applied AI**, working at the intersection of **data, machine learning and business decision-making**.
+
+Currently, I act as **Data & Market Intelligence Coordinator**, leading initiatives related to analytics, data modeling and performance analysis, supporting strategic decisions with reliable and actionable insights.
+
+My work is centered on the **end-to-end data lifecycle** — from data understanding and preparation to modeling, evaluation and communication — always with a strong focus on real business impact.
+
+### Core focus
+
+* **Data Science & Machine Learning** applied to real-world problems
+* **Analytics Engineering** (data modeling, quality, metrics and pipelines)
+* **Applied AI**: advancing toward **LLMs, RAG and agent-based systems**
+
+Here you’ll find projects and studies that reflect how I **frame problems, analyze data, build models and translate results into decisions**.
+
+---
+
+## 🚀 Current Direction
+
+I’m deepening my expertise in **Applied Machine Learning and AI**, moving beyond exploratory analysis into:
+
+* Robust model evaluation
+* Decision-oriented modeling
+* Scalable and production-ready AI concepts
+
+My goal is to design **intelligent data solutions** that are technically solid, explainable and aligned with business strategy.
+
 
 ---
 
