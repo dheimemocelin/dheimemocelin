@@ -1,46 +1,85 @@
 
-# Hi, I'm Dheime Mocelin 👋
+# Dheime Mocelin
 
-### Data Scientist focused on Applied AI and Machine Learning
+**Data Science · Machine Learning · AI Engineering**
 
-I build **data and AI solutions for real-world business problems**, combining analytical thinking, machine learning and software development.
+This GitHub is my technical workspace for studying, building and documenting projects involving **Data Science, Machine Learning and Applied AI**.
 
-My work covers the complete journey from raw data to decision:
-
-- Understanding and framing business problems
-- Preparing, modeling and validating data
-- Building predictive and analytical models
-- Developing data applications and intelligent automations
-- Translating technical results into actionable decisions
+Most repositories are structured around practical problems, experiments and production-oriented implementations.
 
 ---
 
-## Current Focus
+## Current Areas of Study
 
-I’m currently expanding my expertise in **Machine Learning and AI Engineering**, with a practical focus on:
+### Machine Learning
 
-- Predictive modeling and model evaluation
-- Feature engineering and decision-oriented machine learning
-- Generative AI and Large Language Models
-- Retrieval-Augmented Generation — RAG
-- AI agents and intelligent workflows
-- LLM evaluation, monitoring and observability
-- Production-ready data and AI applications
+- Supervised and unsupervised learning
+- Feature engineering
+- Model evaluation and validation
+- Predictive modeling
+- Experiment design
+- Decision-oriented machine learning
+
+### AI Engineering
+
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- AI agents
+- Tool calling and structured outputs
+- Multi-agent systems
+- LLM evaluation
+- Observability and tracing
+- Guardrails and reliability
+
+### Data Engineering
+
+- Data ingestion and transformation
+- SQL and analytical modeling
+- PostgreSQL and vector databases
+- APIs and integrations
+- Data pipelines
+- Containerized applications
 
 ---
 
-## What You'll Find Here
+## Engineering Principles
 
-This profile documents my journey through **Data Science, Machine Learning and Applied AI**.
+Projects in this profile generally follow a few principles:
 
-You’ll find projects involving:
+- Start from a clearly defined problem
+- Keep data processing reproducible
+- Separate business logic from infrastructure
+- Use version control intentionally
+- Prefer simple architectures before adding complexity
+- Validate models and AI outputs instead of relying only on demos
+- Add logging and observability to important workflows
+- Keep secrets and configuration outside the source code
+- Document architectural decisions and trade-offs
+- Build systems that can evolve beyond the initial prototype
 
-- Customer intelligence and segmentation
-- Forecasting and predictive analytics
-- Machine learning applied to business decisions
-- Data pipelines and analytical applications
-- RAG systems and AI assistants
-- Intelligent workflow automation
-- AI agents connected to real processes
+---
 
-My goal is to build intelligent solutions that are **reliable, explainable and useful in practice**.
+## Project Structure
+
+Depending on the project, repositories may follow structures such as:
+
+```text
+project/
+├── src/
+│   ├── domain/
+│   ├── services/
+│   ├── agents/
+│   ├── tools/
+│   └── infrastructure/
+│
+├── tests/
+├── notebooks/
+├── data/
+├── docs/
+├── scripts/
+│
+├── .env.example
+├── .gitignore
+├── pyproject.toml
+├── docker-compose.yml
+└── README.md
