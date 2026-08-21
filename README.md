@@ -57,29 +57,4 @@ Projects in this profile generally follow a few principles:
 - Document architectural decisions and trade-offs
 - Build systems that can evolve beyond the initial prototype
 
----
 
-## Project Structure
-
-Depending on the project, repositories may follow structures such as:
-
-```text
-project/
-├── src/
-│   ├── domain/
-│   ├── services/
-│   ├── agents/
-│   ├── tools/
-│   └── infrastructure/
-│
-├── tests/
-├── notebooks/
-├── data/
-├── docs/
-├── scripts/
-│
-├── .env.example
-├── .gitignore
-├── pyproject.toml
-├── docker-compose.yml
-└── README.md
