@@ -32,6 +32,6 @@ My work spans AI agents, backend engineering, data pipelines, integrations, and 
 
 I'm interested in building production-ready AI systems and solving complex problems at the intersection of engineering and business.
 
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/dheimemocelin)
+[GitHub](https://github.com/dheimemocelin)
 
 > Build useful systems. Measure what matters. Keep improving.
