@@ -1,32 +1,21 @@
 # Dheime Mocelin
 
-**Data & AI Engineering · Automation · Agentic Systems**
+**Data Engineering · Applied AI · Systems Integration**
 
-I work at the intersection of data, automation, and applied AI, building tools and integrations around real operational problems.
+I started in web development and moved into business intelligence, data pipelines, and automation. Today, I coordinate data and market intelligence while building AI-driven tools and exploring more rigorous engineering practices.
 
-My background is in data analytics and business intelligence. Today, I'm expanding that work into AI agents, backend integrations, and the engineering practices needed to make these systems more reliable.
+Most of my work begins with systems that don't talk to each other: CRMs, marketing platforms, operational databases, and APIs. I connect them, structure the data, and turn fragmented processes into workflows that teams can actually use.
 
-### Areas of focus
+### What I work on
 
-- **Agentic AI:** conversation workflows, tool use, state management, guardrails, and evaluation.
-- **Data systems:** ingestion, transformation, SQL, analytics, and reporting.
-- **Integration & automation:** APIs, CRM workflows, and connecting systems that were not designed to work together.
-- **Engineering practices:** reproducible tests, quality gates, documentation, and explicit operational constraints.
+- **Commercial data infrastructure:** extracting and consolidating CRM data, modeling sales funnels, and tracking lead sources, stage transitions, conversion, and operational performance.
+- **Integrations and automation:** building Python and API-based workflows to move data between marketing, sales, and internal systems, including tools with limited integration options.
+- **Applied AI:** developing LLM-based assistants with explicit conversation state, tool boundaries, business rules, and tests. My focus is making agent behavior inspectable rather than relying on prompts alone.
 
-### Work in progress
+### Current technical direction
 
-Two repositories capture the direction of my current work:
+I'm working toward stronger AI engineering practices: evaluation, reproducibility, failure handling, and reliable delivery. I also maintain [Engineering OS](https://github.com/dheimemocelin/skill), an experimental collection of reusable agent skills, execution controls, and quality checks.
 
-**[Engineering OS](https://github.com/dheimemocelin/skill)** explores reusable agent skills, constrained execution, and evidence-based quality checks.
+**Tools I use:** Python, SQL, TypeScript, FastAPI, PostgreSQL, DuckDB, BigQuery, LangGraph, Docker, AWS.
 
-**[LEAP AI Assistant](https://github.com/dheimemocelin/leap_ia_assistant)** is a conversational AI pilot built with LangGraph, with structured workflows, persistent context, controlled messaging, and automated tests.
-
-### Tools & technologies
-
-`Python` · `SQL` · `TypeScript` · `FastAPI` · `LangGraph` · `PostgreSQL` · `DuckDB` · `Docker` · `AWS`
-
----
-
-**Currently exploring:** AI system reliability, evaluation-driven development, and forward-deployed engineering.
-
-[Explore my repositories](https://github.com/dheimemocelin?tab=repositories)
+[Repositories](https://github.com/dheimemocelin?tab=repositories)
