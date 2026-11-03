@@ -13,12 +13,11 @@ My work spans AI agents, backend engineering, data pipelines, integrations, and 
 - **Data engineering:** ingestion pipelines, data modeling, analytics, and business intelligence.
 - **Forward deployed engineering:** working close to operational teams to design, ship, and improve solutions.
 
-### Selected projects
+### How I approach engineering
 
-- **[Engineering OS](https://github.com/dheimemocelin/skill)** — reusable engineering skills, agents, quality gates, and lightweight orchestration.
-- **[Leap AI Assistant](https://github.com/dheimemocelin/leap_ia_assistant)** — an AI-powered commercial assistant with structured conversation flows and controlled handoffs.
-- **[Facebook Ads BI](https://github.com/dheimemocelin/facebook_ads_bi)** — a data engineering and analytics project for advertising performance.
-- **[PixelQuest](https://github.com/dheimemocelin/pixelquest)** — an educational game project exploring interactive learning.
+I work across the full delivery cycle: understanding the operational problem, designing the architecture, integrating existing systems, and shipping software people can actually use.
+
+My current focus is on **reliable AI agents**, **developer tooling**, and **data-driven applications** — with attention to evaluation, observability, and maintainability.
 
 ### Tech I use
 
