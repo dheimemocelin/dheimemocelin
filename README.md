@@ -3,7 +3,7 @@
 **Data & AI Engineering**  
 *Agentic systems · Data infrastructure · Systems integration*
 
-Data & Market Intelligence Coordinator based in Brazil. Background in analytics, business intelligence, and automation, with hands-on work across CRM integrations, data pipelines, and applied AI.
+Leading data and market intelligence initiatives across commercial operations, with hands-on experience in data architecture, CRM integrations, automation, and applied AI.
 
 ### Focus
 
