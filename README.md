@@ -1,39 +1,27 @@
 # Dheime Mocelin
 
-**Data & AI Engineering | Systems Integration | Field-Driven Delivery**
+**Data & AI Engineering**  
+*Agentic systems · Data infrastructure · Systems integration*
 
-I lead data and market intelligence initiatives and build the technical systems behind commercial operations. My work sits where business requirements meet fragmented infrastructure: CRM platforms, operational databases, marketing systems, APIs, and increasingly, AI-powered workflows.
+Data & Market Intelligence Coordinator based in Brazil. Background in analytics, business intelligence, and automation, with hands-on work across CRM integrations, data pipelines, and applied AI.
 
-I approach engineering from the field: understand the workflow, identify the constraints, design around existing systems, and deliver something that can be operated, measured, and improved.
+### Focus
 
-## Engineering focus
+- **Agentic systems** — LLM orchestration, tool boundaries, state, guardrails, and evaluation.
+- **Data infrastructure** — ingestion, transformation, SQL, data modeling, and operational analytics.
+- **Systems integration** — APIs, CRM platforms, legacy constraints, and workflow automation.
+- **Field-driven delivery** — technical discovery, architecture, implementation, validation, and operational handoff.
 
-**Systems & data architecture**  
-Designing integration and data flows across disconnected platforms, from extraction and transformation to consistent models for operational reporting and decision-making.
+### Stack
 
-**Applied AI & agentic workflows**  
-Building LLM-based systems with explicit state, controlled tool access, business rules, and testable behavior. Interested in evaluation, recovery paths, and the boundary between model decisions and deterministic software.
+`Python` · `SQL` · `TypeScript` · `FastAPI` · `LangGraph` · `PostgreSQL` · `DuckDB` · `Docker` · `AWS`
 
-**Delivery in real environments**  
-Translating operational problems into scoped technical solutions. Working across stakeholders, legacy constraints, APIs, and deployment considerations—not treating a working prototype as the end of the job.
+### Open source & experiments
 
-## How I work
+**[Engineering OS](https://github.com/dheimemocelin/skill)** — reusable agent skills, execution boundaries, and quality gates for AI-assisted development.
 
-`Discover the constraints` → `Design the system` → `Integrate & build` → `Validate` → `Iterate`
+---
 
-The questions I care about are practical: **What happens when a dependency fails? Where does state live? What can the model decide? How do we verify the result? Who operates the system after delivery?**
+**Current interests:** AI engineering, reliable agentic workflows, and forward-deployed engineering.
 
-## Technical foundation
-
-- **Languages & services:** Python, SQL, TypeScript, FastAPI
-- **Data & analytics:** PostgreSQL, DuckDB, BigQuery, BI and data pipelines
-- **AI systems:** LLM applications, LangGraph, agent workflows, evaluation
-- **Infrastructure & integration:** Docker, AWS, REST APIs, CRM integrations
-
-## Current direction
-
-Deepening my work in **AI engineering and Forward Deployed Engineering**: building reliable systems close to the people, processes, and constraints they serve.
-
-I also develop [Engineering OS](https://github.com/dheimemocelin/skill), a personal engineering toolkit for reusable agent skills, execution boundaries, and evidence-based quality checks.
-
-[Explore repositories](https://github.com/dheimemocelin?tab=repositories)
+[Repositories](https://github.com/dheimemocelin?tab=repositories)
