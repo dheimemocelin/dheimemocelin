@@ -1,8 +1,37 @@
-
 # Dheime Mocelin
 
-**Data Science · Machine Learning · AI Engineering**
+**AI Engineer · Forward Deployed Engineering · Software & Data Systems**
 
-Working with data, machine learning and applied artificial intelligence.
+I build AI-powered systems that connect software, data, and real business operations.
 
+My work spans AI agents, backend engineering, data pipelines, integrations, and deployment. I focus on turning ambiguous business problems into reliable, maintainable systems — from discovery and architecture to implementation.
 
+### What I work on
+
+- **AI engineering:** agent workflows, LLM applications, retrieval, evaluation, and human handoffs.
+- **Software engineering:** APIs, backend services, automation, and system integrations.
+- **Data engineering:** ingestion pipelines, data modeling, analytics, and business intelligence.
+- **Forward deployed engineering:** working close to operational teams to design, ship, and improve solutions.
+
+### Selected projects
+
+- **[Engineering OS](https://github.com/dheimemocelin/skill)** — reusable engineering skills, agents, quality gates, and lightweight orchestration.
+- **[Leap AI Assistant](https://github.com/dheimemocelin/leap_ia_assistant)** — an AI-powered commercial assistant with structured conversation flows and controlled handoffs.
+- **[Facebook Ads BI](https://github.com/dheimemocelin/facebook_ads_bi)** — a data engineering and analytics project for advertising performance.
+- **[PixelQuest](https://github.com/dheimemocelin/pixelquest)** — an educational game project exploring interactive learning.
+
+### Tech I use
+
+**Languages:** Python, TypeScript, JavaScript, SQL  
+**AI:** LLMs, LangGraph, agent workflows, RAG  
+**Backend & data:** FastAPI, PostgreSQL, DuckDB, BigQuery  
+**Infrastructure:** Docker, AWS, Cloudflare  
+**Analytics & integrations:** Power BI, APIs, CRM systems, workflow automation
+
+### Let's connect
+
+I'm interested in building production-ready AI systems and solving complex problems at the intersection of engineering and business.
+
+[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/dheimemocelin)
+
+> Build useful systems. Measure what matters. Keep improving.
